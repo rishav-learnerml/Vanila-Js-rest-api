@@ -1,0 +1,20 @@
+{
+  "name": "noderest",
+  "version": "1.0.0",
+  "description": "A simple nodejs api with vanila js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishav-learnerml/Vanila-Js-rest-api.git"
+  },
+  "author": "Rishav Chatterjee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rishav-learnerml/Vanila-Js-rest-api/issues"
+  },
+  "homepage": "https://github.com/rishav-learnerml/Vanila-Js-rest-api#readme"
+}
